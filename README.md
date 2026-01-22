@@ -1,5 +1,4 @@
 # FUTURE_CS_01
-Cybersecurity Internship Program – Security Operations, Threat Analysis &amp; Incident Response - Future Interns
 🕵️‍♂️ Vulnerability Assessment Report (Read-Only)
 
 A professional, ethical audit of a live website — designed for internship learning and cybersecurity consulting practice.
