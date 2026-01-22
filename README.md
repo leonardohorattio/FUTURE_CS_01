@@ -32,14 +32,6 @@ Browser DevTools – Header, cookie, and client-side inspection
 
 Canva – Professional report design
 
-📝 Deliverables
-
-Executive summary & detailed findings
-
-Risk classification & remediation guidance
-
-Portfolio-ready PDF report
-
 🌟 Learning Outcomes
 
 Ethical vulnerability assessment
