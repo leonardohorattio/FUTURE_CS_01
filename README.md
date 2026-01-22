@@ -14,7 +14,7 @@ This is my first web application vulnerability assessment, and all findings are 
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-🎯 Objective
+🎯 **Objective**
 
 • Analyze www.cre8tise.com for common security vulnerabilities
 • Communicate findings clearly for business stakeholders
@@ -41,16 +41,16 @@ This is my first web application vulnerability assessment, and all findings are 
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-📝 Deliverables
-
+**📝 Deliverables
+**
 • Executive summary & detailed findings
 • Risk classification & remediation guidance
 • Portfolio-ready PDF report
 
 ••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
 
-🌟 Learning Outcomes
-
+**🌟 Learning Outcomes
+**
 • Understanding ethical vulnerability assessment
 • Communicating technical findings in plain language
 • Producing professional cybersecurity reports
