@@ -1,4 +1,5 @@
-A professional, ethical audit of a live website — designed for internship learning and cybersecurity consulting practice.
+This repository contains my work from the Cyber Security Internship at Future Interns.
+The task focused on performing a web application vulnerability assessment on live public-facing websites and intentionally vulnerable applications. 
 
 📌 Overview
 
