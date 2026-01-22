@@ -1,27 +1,35 @@
-This repository contains my work from the Cyber Security Internship at Future Interns.
-The task focused on performing a web application vulnerability assessment on live public-facing websites and intentionally vulnerable applications. 
+This repository documents the results of a Vulnerability Assessment conducted on my personal website, www.cre8tise.com
+.
 
-📌 Overview
+The assessment focused on identifying potential security weaknesses in a professional and ethical manner. The evaluation included:
 
-Websites are often vulnerable due to outdated plugins, misconfigured headers, or exposed information. This project focuses on:
+Reviewing public-facing pages
 
-Identifying security weaknesses ethically
+Inspecting security headers and configurations
 
-Communicating risks in business-friendly terms
+Conducting passive vulnerability scans
 
-Suggesting actionable remediation steps
+Classifying risks and providing practical remediation recommendations
 
-Presenting a polished vulnerability assessment report
+This is my first web application vulnerability assessment, and all findings are presented in a business-friendly format. No exploitation, brute-force attacks, or any activity that could harm the website was performed.
 
-Note: This project is purely read-only — no hacking or harmful activity.
+🎯 Objective
 
-⚖️ Scope
+Analyze www.cre8tise.com
+ for common security vulnerabilities
 
-✅ Public-facing pages only
-✅ Passive scanning & header checks
-✅ Configuration analysis
+Communicate findings clearly for business stakeholders
 
-❌ No exploitation, brute force, DoS, or login bypass
+Suggest actionable steps to improve website security
+
+Produce a professional, portfolio-ready vulnerability assessment report
+
+⚖️ Scope & Ethics
+
+✅ Allowed: Public pages only, passive scanning, header & configuration checks
+❌ Not allowed: Exploitation, brute-force attacks, login bypass, DoS attacks
+
+Ethics first: Think like a security auditor, not an attacker.
 
 🛠️ Tools Used
 
@@ -29,14 +37,24 @@ Nmap – Port & exposure analysis
 
 OWASP ZAP (Passive Scan) – Safe vulnerability scanning
 
-Browser DevTools – Header, cookie, and client-side inspection
+Browser DevTools – Inspect headers, cookies, and client-side issues
 
-Canva – Professional report design
+Canva – Design a visually professional report
+
+📝 Deliverables
+
+Executive summary & detailed findings
+
+Risk classification & remediation guidance
+
+Portfolio-ready PDF report
 
 🌟 Learning Outcomes
 
-Ethical vulnerability assessment
+Understanding ethical vulnerability assessment
 
-Communicating security risks clearly
+Communicating technical findings in plain language
 
-Professional cybersecurity reporting
+Producing professional cybersecurity reports
+
+Gaining practical experience in web application security auditing
